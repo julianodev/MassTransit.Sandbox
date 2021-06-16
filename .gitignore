@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
+/.vs/MassTransit.Sandbox/v15/Server/sqlite3
+/.vs/MassTransit.Sandbox/v15/sqlite3/db.lock
+/.vs/MassTransit.Sandbox/v15/sqlite3/storage.ide-shm
+/.vs/MassTransit.Sandbox/v15/sqlite3/storage.ide-wal
+/.vs/MassTransit.Sandbox/v16/Server/sqlite3
